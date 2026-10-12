@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI — Adaptive Career Intelligence",
+  "description": "Continuous career readiness platform with explainable resume matching, skill-gap analysis, and adaptive AI mock interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
